@@ -1,2 +1,2 @@
 # application-operator
-# Application manager Deployment and Service
+Application manager Deployment and Service
